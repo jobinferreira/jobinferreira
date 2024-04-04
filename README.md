@@ -12,6 +12,9 @@ I'm a Front-End Designer who loves solving people's problems through code ðŸ‘¨â€
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jobinferreira&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Habilidades
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Node](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=node.js)
+
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
@@ -22,11 +25,10 @@ I'm a Front-End Designer who loves solving people's problems through code ðŸ‘¨â€
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
@@ -35,6 +37,7 @@ I'm a Front-End Designer who loves solving people's problems through code ðŸ‘¨â€
 ### Bibliotecas e Frameworks
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js)
+![EXPRESS](https://img.shields.io/badge/EXPRESS-000?style=for-the-badge&logo=express)
 
 <!--
 **jobinferreira/jobinferreira** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
