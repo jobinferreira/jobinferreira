@@ -3,8 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jobferreira/)
 [![Behance](https://img.shields.io/badge/behance-000?style=for-the-badge&logo=behance&logoColor=0E76A8)](https://www.behance.net/jobferreira)
 
-I'm a Front-End Designer who loves solving people's problems through code 👨‍💻
+I'm a Developer who loves solving people's problems through code 👨‍💻
 * Intermediate English
+* Front-End
+* Back-End
+* Data base
 * Scrum
 * Web responsive
 * User Experience and Interface
