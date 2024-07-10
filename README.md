@@ -22,15 +22,11 @@ I'm a Developer who loves solving people's problems through code 👨‍💻
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest)
-
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
-![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
@@ -41,6 +37,7 @@ I'm a Developer who loves solving people's problems through code 👨‍💻
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-000?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
 
 <!--
 **jobinferreira/jobinferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
